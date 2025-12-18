@@ -7,7 +7,6 @@
 Building intelligent systems, clean APIs, and modern web apps.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-yasser-zrelli-105429257/)
-[![YouTube](https://img.shields.io/badge/YouTube-@yasserzrelli-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@yasserzrelli)
 [![Gmail](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yasserzrelli1@gmail.com)
 
 </div>

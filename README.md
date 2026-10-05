@@ -26,8 +26,7 @@ Building intelligent systems, clean APIs, and modern web apps.
 ## Featured Work
 
 - **AI Research / Automation** – LLM-powered agents for research & summarization (LangChain + FastAPI + PostgreSQL).  
-- **Full-Stack Apps** – Next.js + Node.js projects with auth, APIs, and modern UI.  
-- **ML Pipelines** – Feature engineering & model evaluation in Python.
+- **Full-Stack Apps** – Next.js + Node.js projects with auth, APIs, and modern UI. 
 
 ---
 

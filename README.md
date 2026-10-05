@@ -13,17 +13,17 @@ Building intelligent systems, clean APIs, and modern web apps.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Languages:** JS · TS · Python · Java  · Bash  
-**Backend:** FastAPI · Node.js · Express  
+**Backend:** FastAPI · Node.js · Express · Nest.js 
 **Frontend:** React · Next.js  
-**DevOps & Cloud:** Docker · Ansible · Google Cloud  
+**DevOps & Cloud:** Docker · Ansible
 **Databases:** PostgreSQL · Oracle
 
 ---
 
-## 🚀 Featured Work
+## Featured Work
 
 - **AI Research / Automation** – LLM-powered agents for research & summarization (LangChain + FastAPI + PostgreSQL).  
 - **Full-Stack Apps** – Next.js + Node.js projects with auth, APIs, and modern UI.  
@@ -31,7 +31,7 @@ Building intelligent systems, clean APIs, and modern web apps.
 
 ---
 
-## 📈 GitHub
+## GitHub
 
 <div align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=YasserZr&show_icons=true&theme=tokyonight&hide_title=true"/>
@@ -40,7 +40,7 @@ Building intelligent systems, clean APIs, and modern web apps.
 
 ---
 
-## 🎯 Now
+## Now
 
 - Learning: **GTM engineering, system design**
 

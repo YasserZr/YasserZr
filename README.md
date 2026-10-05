@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hey, I'm Ahmed Yasser
+# Hey, I'm Ahmed Yasser
 
 **Software Engineering Student · Full-Stack & AI Enthusiast**
 
@@ -15,7 +15,7 @@ Building intelligent systems, clean APIs, and modern web apps.
 
 ## 🛠 Tech Stack
 
-**Languages:** JS · TS · Python · Java · C# · Bash  
+**Languages:** JS · TS · Python · Java  · Bash  
 **Backend:** FastAPI · Node.js · Express  
 **Frontend:** React · Next.js  
 **DevOps & Cloud:** Docker · Ansible · Google Cloud  
@@ -42,9 +42,7 @@ Building intelligent systems, clean APIs, and modern web apps.
 
 ## 🎯 Now
 
-- Learning: **LangChain, MLOps, system design**  
-- Building: **AI-powered tools** & **cloud-native apps**  
-- Open to: **AI / backend / full‑stack internships**
+- Learning: **GTM engineering, system design**
 
 ---
 
